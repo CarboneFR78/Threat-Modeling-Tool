@@ -10,7 +10,13 @@
         "name": "me"
       }
     ],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "test1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Me"
   }
 }
