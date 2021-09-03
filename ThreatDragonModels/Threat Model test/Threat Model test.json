@@ -1,17 +1,12 @@
 {
   "summary": {
     "title": "Threat Model test",
-    "owner": "Me"
+    "owner": "Me",
+    "description": "no"
   },
   "detail": {
     "contributors": [],
-    "diagrams": [
-      {
-        "title": "test1",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 0
-      }
-    ],
+    "diagrams": [],
     "reviewer": "Me"
   }
 }
