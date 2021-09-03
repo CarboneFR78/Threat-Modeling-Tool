@@ -5,7 +5,11 @@
     "description": "no"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "me"
+      }
+    ],
     "diagrams": [],
     "reviewer": "Me"
   }
